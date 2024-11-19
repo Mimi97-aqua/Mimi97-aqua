@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is **Loni** and I am a _Data Nerd_ and _Python Backend Developer_.
 
-- 🔭 I’m currently working on a project called [**ndaab**](ndaab.com) 😁
+- 🔭 I’m currently revolutionizing learning African languages through [**ndaab**](ndaab.com)
 - 🌱 I learn everything **anything tech related.**
 - 👯 I’m looking to collaborate on data and backend projects.
 - 📫 How to reach me: [my website](https://linktr.ee/loni_tande)
