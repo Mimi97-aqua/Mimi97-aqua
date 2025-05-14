@@ -1,11 +1,11 @@
 ### Hi there 👋
 My name is **Loni** and I am a _Data Nerd_ and _Python Backend Developer_.
 
-- 🔭 I’m currently revolutionizing learning African languages through [**ndaab**](ndaab.com)
+- 🔭 I’m currently revolutionizing learning African languages through [**ndaab**](https://github.com/ndaab)
 - 🌱 I learn everything **anything tech related.**
 - 👯 I’m looking to collaborate on data and backend projects.
 - 📫 How to reach me: [my website](https://linktr.ee/loni_tande)
-- ⚡ Fun fact: I am giving back to my community through a free [software engineering training.](https://shorturl.at/AyT0H)
+- ⚡ Fun fact: I am giving back to my community through a [iSpark Classroom](https://classroom.isparkinno.com). Check out the trainings we offer
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mimi97-aqua)](https://github.com/anuraghazra/github-readme-stats)
 
