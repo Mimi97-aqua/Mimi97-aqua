@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is **Loni** and I am a _Data Nerd_ and _Python Backend Developer_.
+My name is **Loni** and I am a _Data Nerd_ and _Backend Developer_.
 
 - 🔭 I’m currently revolutionizing learning African languages through [**ndaab**](https://github.com/ndaab)
 - 🌱 I learn everything **anything tech related.**
