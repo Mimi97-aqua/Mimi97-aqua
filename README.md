@@ -42,7 +42,7 @@ My name is **Loni** and I am a _Data Nerd_ and _Backend Engineer_.
 <tr>
 <td width="100%">
 
-#### Creating a Power BI Interval Filter like PostgreSQL Intervals
+#### Power BI Interval Filter like PostgreSQL Intervals
 **Published:** `2024-07-22` • **Read Time:** `3 min`
 
 ```diff
@@ -59,7 +59,7 @@ My name is **Loni** and I am a _Data Nerd_ and _Backend Engineer_.
 
 <td width="100%">
 
-### CTEs, Temporary Tables, Sub-queries: What's the difference?
+### CTEs, Temporary Tables, Sub-queries
 **Published:** `2024-09-02` • **Read Time:** `3 min`
 
 ```diff
@@ -74,7 +74,7 @@ My name is **Loni** and I am a _Data Nerd_ and _Backend Engineer_.
 
 <td width="50%">
   
-### Docker 101: A Beginner's Guide
+### Docker 101: A Beginner's Guide to Docker
 **Published:** `2024-10-18` • **Read Time:** `10 min`
 
 ```diff
