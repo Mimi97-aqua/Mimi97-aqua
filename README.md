@@ -40,9 +40,9 @@ My name is **Loni** and I am a _Data Nerd_ and _Backend Engineer_.
 ### Top Articles
 <table>
 <tr>
-  <td width="100%">
+<td width="100%">
 
-#### Creating an Interval Filter in Power BI that behaves like PostgreSQL Intervals
+#### Creating a Power BI Interval Filter like PostgreSQL Intervals
 **Published:** `2024-07-22` • **Read Time:** `3 min`
 
 ```diff
@@ -56,33 +56,10 @@ My name is **Loni** and I am a _Data Nerd_ and _Backend Engineer_.
 [![Read Article](https://img.shields.io/badge/Read_Article-4CAF50?style=flat-square&logo=readthedocs&logoColor=white)](https://medium.com/@ebenyemiriam17/creating-an-interval-filter-in-power-bi-that-behaves-like-postgresql-intervals-54a7691c9e7a)
 
 </td>
-</tr>
 
-<tr>
 <td width="100%">
 
-#### The 1.5 Inter-Quartile Range Rule
-**Published:** `2024-01-10` • **Read Time:** `5 min`
-
-```diff
-+ Z-Score
-+ Quartliles & Outliers
-+ Statistical Measures
-+ Statistical Outlier Detection
-```
-
-[![Read Article](https://img.shields.io/badge/Read_Article-4CAF50?style=flat-square&logo=readthedocs&logoColor=white)](https://medium.com/@ebenyemiriam17/the-1-5inter-quartile-range-rule-881403f0cf7c)
-
-</td>
-</tr>
-  
-</table>
-
-<table>
-<tr>
-<td width="100%">
-
-### CTEs, Temporary Tables, Sub-queries
+### CTEs, Temporary Tables, Sub-queries: What's the difference?
 **Published:** `2024-09-02` • **Read Time:** `3 min`
 
 ```diff
@@ -95,7 +72,7 @@ My name is **Loni** and I am a _Data Nerd_ and _Backend Engineer_.
 [![Read Article](https://img.shields.io/badge/Read_Article-4CAF50?style=flat-square&logo=readthedocs&logoColor=white)](https://medium.com/@ebenyemiriam17/ctes-temporary-tables-and-subqueries-what-really-is-the-difference-a1ec758db560)
 </td>
 
-<td width="100%">
+<td width="50%">
   
 ### Docker 101: A Beginner's Guide
 **Published:** `2024-10-18` • **Read Time:** `10 min`
@@ -108,6 +85,22 @@ My name is **Loni** and I am a _Data Nerd_ and _Backend Engineer_.
 ```
 
 [![Read Article](https://img.shields.io/badge/Read_Article-4CAF50?style=flat-square&logo=readthedocs&logoColor=white)](https://medium.com/@ebenyemiriam17/docker-101-a-beginners-guide-to-docker-36cf4c2f2959)
+</td>
+
+<td width="50%">
+
+#### Data Data: The 1.5 Inter-Quartile Range Rule
+**Published:** `2024-01-10` • **Read Time:** `5 min`
+
+```diff
++ Z-Score
++ Quartliles & Outliers
++ Statistical Measures
++ Statistical Outlier Detection
+```
+
+[![Read Article](https://img.shields.io/badge/Read_Article-4CAF50?style=flat-square&logo=readthedocs&logoColor=white)](https://medium.com/@ebenyemiriam17/the-1-5inter-quartile-range-rule-881403f0cf7c)
+
 </td>
 
 </tr>
