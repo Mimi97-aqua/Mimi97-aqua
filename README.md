@@ -34,10 +34,12 @@ My name is **Loni** and I am a _Data Nerd_ and _Backend Engineer_.
 ![NoSQL](https://img.shields.io/badge/-NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+<!--
 ### Currently Learning
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+-->
 
 ### Top Articles
 <table>
@@ -108,8 +110,10 @@ My name is **Loni** and I am a _Data Nerd_ and _Backend Engineer_.
 </tr>
 </table>
 
+<!--
 ### My Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Mimi97-aqua&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1"/>
 </div>
+-->
