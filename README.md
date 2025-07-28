@@ -14,7 +14,7 @@ My name is **Loni** and I am a _Data Nerd_ and _Backend Engineer_.
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mimi97-aqua&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mimi97-aqua&layout=compact&langs_count=4&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mimi97-aqua&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 </div>
 
 ### Skills & Technologies
