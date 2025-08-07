@@ -31,6 +31,7 @@ My name is **Loni** and I am a _Data Nerd_ and _Backend Engineer_.
 ![SQL](https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/-NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-FF6C37?style=for-the-badge&logo=rust&logoColor=white)
 
 <!--
 ### Currently Learning
