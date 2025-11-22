@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there
 My name is **Loni** and I am a _Data Nerd_ and _Backend Engineer_.
 
 - I’m currently revolutionizing learning African languages through [**ndaab**](https://github.com/ndaab)
@@ -6,14 +6,14 @@ My name is **Loni** and I am a _Data Nerd_ and _Backend Engineer_.
 - I love to learn every and anything tech related.
 - I’m looking to collaborate on data, AI, and backend projects.
 
-### View My Stats
+### My Stats
 <!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mimi97-aqua&theme=tokyo-night&hide_border=true&area=true"/>
 </div> -->
 
-<div align="center">
+<div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mimi97-aqua&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mimi97-aqua&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mimi97-aqua&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/> -->
 </div>
 
 <!-- <h1>
