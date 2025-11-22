@@ -5,20 +5,18 @@ My name is **Loni** and I am a _Data Nerd_ and _Backend Engineer_.
 - Interested in open source and community projects? Check out what I'm building at [**iSpark Inno**](https://github.com/iSpark-Inno)
 - I love to learn every and anything tech related.
 - I’m looking to collaborate on data, AI, and backend projects.
-- How to reach me: [my website](https://linktr.ee/loni_tande)
 
 ### View My Stats
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mimi97-aqua&theme=tokyo-night&hide_border=true&area=true"/>
-</div>
+</div> -->
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mimi97-aqua&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mimi97-aqua&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 </div>
 
-### Skills & Technologies
-
+<!-- <h1>
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/-Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
@@ -32,6 +30,7 @@ My name is **Loni** and I am a _Data Nerd_ and _Backend Engineer_.
 ![NoSQL](https://img.shields.io/badge/-NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-FF6C37?style=for-the-badge&logo=rust&logoColor=white)
+</h1> -->
 
 <!--
 ### Currently Learning
@@ -40,8 +39,8 @@ My name is **Loni** and I am a _Data Nerd_ and _Backend Engineer_.
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 -->
 
-### Top Articles
-<table>
+
+<!-- <table>
 <tr>
 <td width="100%">
 
@@ -58,9 +57,9 @@ My name is **Loni** and I am a _Data Nerd_ and _Backend Engineer_.
 
 [![Read Article](https://img.shields.io/badge/Read_Article-4CAF50?style=flat-square&logo=readthedocs&logoColor=white)](https://medium.com/@ebenyemiriam17/creating-an-interval-filter-in-power-bi-that-behaves-like-postgresql-intervals-54a7691c9e7a)
 
-</td>
+</td> -->
 
-<td width="100%">
+<!-- <td width="100%">
 
 ### CTEs, Temporary Tables, Sub-queries
 **Published:** `2024-09-02` • **Read Time:** `3 min`
@@ -73,9 +72,9 @@ My name is **Loni** and I am a _Data Nerd_ and _Backend Engineer_.
 ```
 
 [![Read Article](https://img.shields.io/badge/Read_Article-4CAF50?style=flat-square&logo=readthedocs&logoColor=white)](https://medium.com/@ebenyemiriam17/ctes-temporary-tables-and-subqueries-what-really-is-the-difference-a1ec758db560)
-</td>
+</td> -->
 
-<td width="50%">
+<!-- <td width="50%">
   
 ### Docker 101: A Beginner's Guide to Docker
 **Published:** `2024-10-18` • **Read Time:** `10 min`
@@ -88,9 +87,9 @@ My name is **Loni** and I am a _Data Nerd_ and _Backend Engineer_.
 ```
 
 [![Read Article](https://img.shields.io/badge/Read_Article-4CAF50?style=flat-square&logo=readthedocs&logoColor=white)](https://medium.com/@ebenyemiriam17/docker-101-a-beginners-guide-to-docker-36cf4c2f2959)
-</td>
+</td> -->
 
-<td width="50%">
+<!-- <td width="50%">
 
 #### Data Data: The 1.5 Inter-Quartile Range Rule
 **Published:** `2024-01-10` • **Read Time:** `5 min`
@@ -107,7 +106,7 @@ My name is **Loni** and I am a _Data Nerd_ and _Backend Engineer_.
 </td>
 
 </tr>
-</table>
+</table> -->
 
 <!--
 ### My Trophies
