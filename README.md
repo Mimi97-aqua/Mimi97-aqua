@@ -1,12 +1,5 @@
-## Hi there
-My name is **Loni** and I am a _Data Nerd_ and _Backend Engineer_.
+### Hi there, I'm Loni
 
-- I’m currently revolutionizing learning African languages through [**ndaab**](https://github.com/ndaab)
-- Interested in open source and community projects? Check out what I'm building at [**iSpark Inno**](https://github.com/iSpark-Inno)
-- I love to learn every and anything tech related.
-- I’m looking to collaborate on data, AI, and backend projects.
-
-### My Stats
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mimi97-aqua&theme=tokyo-night&hide_border=true&area=true"/>
 </div>
