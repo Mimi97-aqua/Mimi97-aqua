@@ -1,110 +1,22 @@
-### Hi there, I'm Loni
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2ECCB0&center=true&vCenter=true&width=440&lines=Hello+and+welcome!g;My+name+is+Loni;Data+Nerd+and+Software+Engineer;Always+learning+something+new;Building+the+next+big+thing" alt="Typing SVG" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mimi97-aqua&theme=tokyo-night&hide_border=true&area=true"/>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/lonitandemiriamebenye/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@ebenyemiriam17" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:ebenyemiriam17@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Mimi97-aqua" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+</p>
 
-<!-- <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mimi97-aqua&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mimi97-aqua&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-</div> -->
-
-<!-- <h1>
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/-Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=for-the-badge&logo=chartdotjs&logoColor=black)
-![Machine Learning](https://img.shields.io/badge/-Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![NLP](https://img.shields.io/badge/-NLP-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![LLM](https://img.shields.io/badge/-LLM-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=coffeescript&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![NoSQL](https://img.shields.io/badge/-NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-FF6C37?style=for-the-badge&logo=rust&logoColor=white)
-</h1> -->
-
-<!--
-### Currently Learning
-![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
--->
-
-
-<!-- <table>
-<tr>
-<td width="100%">
-
-#### Power BI Interval Filter like PostgreSQL Intervals
-**Published:** `2024-07-22` • **Read Time:** `3 min`
-
-```diff
-+ DAX 
-+ Measures
-+ Filtering
-+ Creating tables
-+ What-If Parameter
-```
-
-[![Read Article](https://img.shields.io/badge/Read_Article-4CAF50?style=flat-square&logo=readthedocs&logoColor=white)](https://medium.com/@ebenyemiriam17/creating-an-interval-filter-in-power-bi-that-behaves-like-postgresql-intervals-54a7691c9e7a)
-
-</td> -->
-
-<!-- <td width="100%">
-
-### CTEs, Temporary Tables, Sub-queries
-**Published:** `2024-09-02` • **Read Time:** `3 min`
-
-```diff
-+ SQL Queries
-+ Sub-queries
-+ Temporary Tables
-+ Common Table Expressions
-```
-
-[![Read Article](https://img.shields.io/badge/Read_Article-4CAF50?style=flat-square&logo=readthedocs&logoColor=white)](https://medium.com/@ebenyemiriam17/ctes-temporary-tables-and-subqueries-what-really-is-the-difference-a1ec758db560)
-</td> -->
-
-<!-- <td width="50%">
-  
-### Docker 101: A Beginner's Guide to Docker
-**Published:** `2024-10-18` • **Read Time:** `10 min`
-
-```diff
-+ Docker Hub
-+ Dockerfile
-+ Docker Architecture
-+ Dockerizing a simple app
-```
-
-[![Read Article](https://img.shields.io/badge/Read_Article-4CAF50?style=flat-square&logo=readthedocs&logoColor=white)](https://medium.com/@ebenyemiriam17/docker-101-a-beginners-guide-to-docker-36cf4c2f2959)
-</td> -->
-
-<!-- <td width="50%">
-
-#### Data Data: The 1.5 Inter-Quartile Range Rule
-**Published:** `2024-01-10` • **Read Time:** `5 min`
-
-```diff
-+ Z-Score
-+ Quartliles & Outliers
-+ Statistical Measures
-+ Statistical Outlier Detection
-```
-
-[![Read Article](https://img.shields.io/badge/Read_Article-4CAF50?style=flat-square&logo=readthedocs&logoColor=white)](https://medium.com/@ebenyemiriam17/the-1-5inter-quartile-range-rule-881403f0cf7c)
-
-</td>
-
-</tr>
-</table> -->
-
-<!--
-### My Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mimi97-aqua&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1"/>
-</div>
--->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,rust,docker,aws,git,postgres,mongodb,linux&theme=dark" />
+</p>
