@@ -19,4 +19,5 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,flask,rust,docker,aws,git,postgres,mongodb,linux&theme=dark" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" height="48" />
 </p>
